@@ -11,7 +11,7 @@ html{
 body{
     font-family:'Source Serif 4', serif;
 
-    background:url("images/background.png");
+    background:url("background.png");
     background-size:cover;
     background-position:center;
     background-attachment:fixed;
